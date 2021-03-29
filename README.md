@@ -7,7 +7,7 @@ An online portfolio to hold projects and present myself.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://sandju.github.io/Portfolio/
 
 ## Contribution
 Made By Justin Sanders
